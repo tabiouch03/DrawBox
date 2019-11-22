@@ -1,0 +1,104 @@
+
+
+#pad {
+    background: rgb(255, 255, 255);
+    border: 1px solid #aaa;
+}
+
+#rose {
+    background-color: Pink;
+    color: black;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#vert {
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#gomme {
+    background-color: white;
+    color:black;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#jaune {
+    background-color: Yellow;
+    color: black;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#red {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#blue {
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#noir {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+#reset {
+    background-color: darkslategray;
+    margin-left: 35%;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 50px;
+}
+
+#noir {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+
+button:hover {
+    border: yellow solid 3px;
+    color: white;
+}
+
+
+canvas {
+    margin-left: 30%;
+    margin-bottom: 40px;
+}
+
+h1 {    
+    text-align: center;
+    font-size: 76px;
+    font-family: 'Bangers', cursive;
+    text-shadow: white 5px 5px 5px;
+    color: red;
+}
+
+body {
+    background-image: url(/image/maxresdefault.jpg);
+    background-size: cover;
+    background-position: center;
+}
